@@ -1,0 +1,7 @@
+Total Characters: 168
+Total Words: 32
+Total Sentences: 2
+Unique Words Lenght: 11
+Average sentence length: 16.0 
+Average word length: 3.73
+Longest Word: морковьShortest Word: я
